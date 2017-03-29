@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "2aeaa4d95106b3ed7c57774da71c379e",
+    "content-hash": "26e5792563f35790b4a3dce39056986b",
     "packages": [
         {
             "name": "hoa/compiler",
@@ -919,16 +919,16 @@
         },
         {
             "name": "kphoen/silex-rulerz-provider",
-            "version": "dev-master",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/K-Phoen/silex-rulerz-provider.git",
-                "reference": "ae5c3d6b59f70ce0e332727db45731ecae00bb84"
+                "reference": "2b8a6f766125d2af884680dae7b03f17ffcec117"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/K-Phoen/silex-rulerz-provider/zipball/ae5c3d6b59f70ce0e332727db45731ecae00bb84",
-                "reference": "ae5c3d6b59f70ce0e332727db45731ecae00bb84",
+                "url": "https://api.github.com/repos/K-Phoen/silex-rulerz-provider/zipball/2b8a6f766125d2af884680dae7b03f17ffcec117",
+                "reference": "2b8a6f766125d2af884680dae7b03f17ffcec117",
                 "shasum": ""
             },
             "require": {
@@ -961,7 +961,7 @@
                 "silex",
                 "specification"
             ],
-            "time": "2017-03-29 20:43:57"
+            "time": "2017-03-29T20:53:46+00:00"
         },
         {
             "name": "paragonie/random_compat",
@@ -1763,9 +1763,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "kphoen/silex-rulerz-provider": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
