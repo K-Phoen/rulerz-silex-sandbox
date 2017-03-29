@@ -1,0 +1,13 @@
+{
+    "name": "kphoen/rulerz-silex-sandbox",
+    "description": "Sandbox Silex project integrating RulerZ",
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "silex/silex": "~2.0",
+        "kphoen/silex-rulerz-provider": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "": "src/" }
+    }
+}
